@@ -1,0 +1,14 @@
+---
+description: Add support for Polaris NB IoT board
+fullname: board.zerynth.polaris_nbiot
+info:
+    board: Polaris NB IoT
+    chip_manufacturer: Fortebit
+    device: stm32f452
+    family_type: ARM Cortex M4
+keywords:
+- board
+- robotech
+- stm
+title: Polaris NB IoT Board Support Package
+...
